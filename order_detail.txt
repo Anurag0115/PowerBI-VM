@@ -1,0 +1,21 @@
+Order_ID,Order_Date,Customer_Name,Region,Category,Product,Quantity,Sales,Profit
+1001,2026-01-05,Ravi Kumar,East,Technology,Laptop,2,1200,240
+1002,2026-01-08,Anita Sharma,West,Furniture,Chair,5,750,150
+1003,2026-01-12,John Smith,South,Office Supplies,Paper,10,200,40
+1004,2026-01-15,Priya Reddy,North,Technology,Monitor,3,900,180
+1005,2026-01-20,David Lee,East,Furniture,Table,2,600,90
+1006,2026-01-23,Suresh Rao,West,Technology,Keyboard,8,400,80
+1007,2026-02-02,Meena Patel,South,Office Supplies,Pen,20,100,25
+1008,2026-02-05,Arjun Singh,North,Technology,Mobile,4,1600,320
+1009,2026-02-10,Neha Gupta,East,Furniture,Sofa,1,800,120
+1010,2026-02-14,Rahul Verma,West,Office Supplies,Notebook,15,225,45
+1011,2026-02-18,Kiran Reddy,South,Technology,Printer,2,500,100
+1012,2026-02-22,Sunita Rao,North,Furniture,Desk,3,900,135
+1013,2026-03-01,Vijay Kumar,East,Office Supplies,Stapler,10,150,30
+1014,2026-03-05,Pooja Singh,West,Technology,Tablet,5,1250,250
+1015,2026-03-09,Amit Shah,South,Furniture,Cabinet,2,700,105
+1016,2026-03-14,Swathi Reddy,North,Office Supplies,File Folder,25,300,60
+1017,2026-03-18,Ramesh Gupta,East,Technology,Headphones,6,600,120
+1018,2026-03-22,Lakshmi Devi,West,Furniture,Bookshelf,2,500,75
+1019,2026-03-26,Manoj Patel,South,Technology,Webcam,4,480,96
+1020,2026-03-30,Divya Sharma,North,Office Supplies,Marker,30,180,36
